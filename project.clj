@@ -7,4 +7,7 @@
                  [cheshire "5.3.1"]
                  [clj-logging-config "1.9.10"]
                  [com.netflix.hystrix/hystrix-clj "1.3.13"]
-                 [http-kit "2.1.16"]])
+                 [http-kit "2.1.16"]]
+  :scm {:name "git"
+        :url "ssh://git@github.com:rweir/gateau.git"})
+
